@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Onboarding Journey</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.1/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <header class="bg-blue-600 text-white py-6">
+        <div class="container mx-auto text-center">
+            <h1 class="text-4xl font-bold">Welcome to Your Onboarding Journey</h1>
+            <p class="mt-2">Follow the steps to integrate into our company smoothly!</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto mt-10">
+        <section class="text-center">
+            <h2 class="text-3xl font-semibold mb-6">Your Onboarding Journey Starts Here</h2>
+            <p class="mb-6">We've crafted a comprehensive guide to help you through your first few weeks. Follow the steps, and don't hesitate to reach out if you need any help.</p>
+            <a href="onboarding.html" class="bg-blue-600 text-white py-3 px-6 rounded-full text-lg">Start Onboarding</a>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white text-center py-4 mt-10">
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onboarding Process</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.1/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <header class="bg-blue-600 text-white py-6">
+        <div class="container mx-auto text-center">
+            <h1 class="text-3xl font-bold">Onboarding Process</h1>
+            <p class="mt-2">Step by Step Guide</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto mt-10">
+        <section>
+            <h2 class="text-2xl font-semibold mb-4">Step 1: Receive Offer Letter</h2>
+            <div class="bg-white p-6 rounded-lg shadow-md mb-6">
+                <p>Receive the offer letter by being cc-d on an email from Christian (Talent) and/or the Line Manager.</p>
+            </div>
+            
+            <!-- Repeat for each step based on the SOP -->
+            
+            <h2 class="text-2xl font-semibold mb-4">Step 2: Offer Letter Acceptance</h2>
+            <div class="bg-white p-6 rounded-lg shadow-md mb-6">
+                <p>Wait for the candidate to accept the offer and sign the offer letter & contract.</p>
+            </div>
+            
+            <!-- Add other steps similarly -->
+
+            <a href="index.html" class="bg-blue-600 text-white py-3 px-6 rounded-full">Back to Home</a>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white text-center py-4 mt-10">
+        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
